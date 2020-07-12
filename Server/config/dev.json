@@ -1,0 +1,9 @@
+{
+    "SCB": {
+        "API_KEYS": "l7aa7d0e533e2f487f9fec0d6401bfc59a",
+        "API_SECRET": "f548052e8f654e0f9f901add7f08689b"
+    },
+    "SERVER": {
+        "PORT": 8088
+    }
+}
